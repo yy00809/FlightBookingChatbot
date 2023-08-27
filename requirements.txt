@@ -1,0 +1,5 @@
+pip install flask
+pip install spacy
+pip install tflearn
+pip install numpy
+pip install nltk
